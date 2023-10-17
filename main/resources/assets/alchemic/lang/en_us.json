@@ -1,0 +1,10 @@
+{
+  "block.alchemic.mortar": "Mortar and Pestle",
+  "item.alchemic.bowl_of_termites": "Bowl of Termites",
+  "block.alchemic.termite_mound": "Termite Mound",
+  "effect.alchemic.stickiness" : "Sticky",
+  "item.minecraft.potion.effect.sticky_potion" : "Potion of Stickiness",
+  "item.minecraft.splash_potion.effect.sticky_potion" : "Splash Potion of Stickiness",
+  "item.minecraft.lingering_potion.effect.sticky_potion" : "Lingering Potion of Stickiness",
+  "item.alchemic.balm" : "alchemic balm"
+}

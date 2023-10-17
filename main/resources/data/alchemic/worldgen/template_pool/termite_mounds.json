@@ -1,0 +1,39 @@
+{
+  "name": "alchemic:termite_mounds",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "alchemic:mound_pillar",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "alchemic:mound_pile",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },{
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "alchemic:mound_starting",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },{
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "alchemic:mound_minor",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

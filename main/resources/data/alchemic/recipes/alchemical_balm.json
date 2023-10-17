@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RTR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gunpowder"
+        },
+        "R": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "T": {
+            "item": "alchemic:bowl_of_termites"
+        }
+    },
+    "result": {
+        "item": "alchemic:balm",
+        "count": 8
+    }
+}

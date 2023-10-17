@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "full=false": { "model": "alchemic:block/termite_mound" },
+    "full=true": { "model": "alchemic:block/termite_mound_full" }
+  }
+}

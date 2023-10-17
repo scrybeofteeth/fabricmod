@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alchemic:item/bowl_of_termites"
+  }
+}
